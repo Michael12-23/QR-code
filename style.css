@@ -9,7 +9,7 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
-    padding-top:15rem ;
+    padding-top:18rem ;
 
 }
 
@@ -18,7 +18,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     align-items: center;
     width:22%;
-    height:26% ;
+    height:22% ;
     margin: auto;
     padding-top: 1rem;
     border-radius: 1.5rem 1.5rem;

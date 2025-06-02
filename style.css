@@ -9,7 +9,7 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
-    padding-top:10rem ;
+    padding-top:15rem ;
 
 }
 
@@ -18,12 +18,17 @@ body {
     background-color: hsl(0, 0%, 100%);
     align-items: center;
     width:22%;
+    height:26% ;
     margin: auto;
     padding-top: 1rem;
     border-radius: 1.5rem 1.5rem;
     font-family: "Poppins", sans-serif;
+    
 }
 
+.image{
+
+}
 
 .image>h1{
 color:hsl(218, 44%, 22%);
